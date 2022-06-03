@@ -21,4 +21,11 @@ Search an element in a sorted & rotated Array:-
                                                                       low = mid + 1
                                                                  else:
                                                                       high = mid - 1
-                                                
+                                                      return -1
+                                                      
+
+
+
+                      ------------------------------ Books Allocation----------------------------                   
+
+
